@@ -1,0 +1,5 @@
+{
+  "easy": ["cat", "dog", "sun", "apple", "book", "fish", "tree", "ball"],
+  "medium": ["python", "planet", "guitar", "orange", "school", "flower", "library", "mountain"],
+  "hard": ["hangman", "algorithm", "development", "challenge", "repository", "programming", "function", "variable"]
+}
